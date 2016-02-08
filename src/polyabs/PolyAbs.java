@@ -33,6 +33,7 @@ public class PolyAbs {
         //b =(abc) p;
         b=(abc)check(a);
         System.out.println(b.x);
+        //comment
     }
     static class abc
     {

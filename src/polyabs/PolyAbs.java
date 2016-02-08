@@ -34,8 +34,8 @@ public class PolyAbs {
         b=(abc)check(a);
         System.out.println(b.x);
         //comment
-        System.out.println(b.x);
-        System.out.println(b.x);
+        //System.out.println(b.x);
+        //System.out.println(b.x);
     }
     static class abc
     {

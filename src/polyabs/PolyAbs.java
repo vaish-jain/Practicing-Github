@@ -37,6 +37,7 @@ public class PolyAbs {
         //System.out.println(b.x);
         //System.out.println(b.x);
         //check check
+        //ab dekho hota h qa
     }
     static class abc
     {
